@@ -1,0 +1,21 @@
+Circuit: * G:\Downloads4\PMU_Capacitance_Simulation_Assignment\PMU_Capacitance_Simulation_Assignment\LT1965_MultipleSink.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Oct 07 21:11:19 2017
+Total elapsed time: 0.192 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 12793
+traniter = 12772
+tranpoints = 5905
+accept = 4606
+rejected = 1299
+matrix size = 13
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.81 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.2
+

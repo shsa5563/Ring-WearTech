@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [InductiveCharging.PrjPcb]
+   Generated File[WearTechPCB.TXT]
+   Generated File[WearTechPCB.DRL]
+   Generated File[WearTechPCB.LDP]
+   Generated File[WearTechPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:47:11 PM On 02-12-2017

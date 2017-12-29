@@ -1,0 +1,76 @@
+Protel Design System Design Rule Check
+PCB File : G:\Downloads4\WearTechPCB (1)\WearTechPCB (1)\WearTechPCB.PcbDoc
+Date     : 17-11-2017
+Time     : 09:05:18 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InComponent('U5')Or  InComponent('U1')),(InComponent('U5')Or  InComponent('U1'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InComponent('U6')),(InComponent('U6'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InComponent('U2')),(InComponent('U2'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=12mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=20mil) (Preferred=20mil) ((InNet('+5V') OR InNet('GND') OR InNet('VBUS') OR InNet('VIN') OR InNet('SOURCE1') OR InNet('BAT2')OR InNet('NetC2_2') OR InNet('NetC7_2')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(NoConnect Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (Disabled)(HasFootprint('QFN50P700X700X90_HS-49N'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1.772mil) ((InComponent('U5') OR InComponent('U6') OR InComponent('U2') OR InComponent('U1')  OR InComponent('U3') OR InComponent('U8')  OR InComponent('J24')OR InComponent('Y1'))),((InComponent('U5') OR InComponent('U6') OR InComponent('U2') OR InComponent('U1')  OR InComponent('U3') OR InComponent('U8')  OR InComponent('J24')OR InComponent('Y1')))
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=2mil) (InComponent('U1')Or  InComponent('Y2') Or InComponent('Y1')Or  InComponent('U2') Or InComponent('J24')Or  InComponent('P1')Or  InComponent('J1') Or InComponent('J11')Or InComponent('J8') Or InComponent('J6')),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3623mil,1333mil)(4503mil,1333mil) on Bottom Overlay And Pad P1-1(3953mil,1322mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3623mil,1333mil)(4503mil,1333mil) on Bottom Overlay And Pad P1-2(4053mil,1322mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3623mil,1333mil)(4503mil,1333mil) on Bottom Overlay And Pad P1-3(4153mil,1322mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3623mil,1333mil)(4503mil,1333mil) on Bottom Overlay And Pad J11-1(3806mil,1365mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3843mil,1833mil)(4283mil,1833mil) on Bottom Overlay And Pad J8-1(4141mil,1856mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (4283mil,1833mil)(4503mil,1833mil) on Bottom Overlay And Pad J6-1(4269.12mil,1850mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Track (3843mil,1833mil)(4283mil,1833mil) on Bottom Overlay And Pad J6-1(4269.12mil,1850mil) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+Rule Violations :7
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:11
