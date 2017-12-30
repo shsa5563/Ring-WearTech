@@ -31,7 +31,8 @@ If eager to build the entire project ground up,
     
     
 The workinng prototype is uploaded on youtube,
-    1. Ring-WearTech: https://www.youtube.com/watch?v=jb6WAhV-7PE
-    2. BLE MESH: https://www.youtube.com/watch?v=EVaqNhNOGpU
+
+   1. Ring-WearTech: https://www.youtube.com/watch?v=jb6WAhV-7PE
+   2. BLE MESH: https://www.youtube.com/watch?v=EVaqNhNOGpU
    
    
