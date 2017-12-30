@@ -30,7 +30,8 @@ If eager to build the entire project ground up,
     3. Run a free DFM check, and Submit the Gerber files to PCBWay 
     
     
-The workinng prototype is uploaded in youtube, 
+The workinng prototype is uploaded on youtube,
+    
     1. Ring-WearTech: https://www.youtube.com/watch?v=jb6WAhV-7PE
     2. BLE MESH: https://www.youtube.com/watch?v=EVaqNhNOGpU
    
