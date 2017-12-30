@@ -1,10 +1,11 @@
 # Ring-WearTech
 A research project on wearable technology
 
-To tryout this project you need 
-    Hardware: 
-    1. EFR32BG13 - starter kit, BMA280, Android Phone
+Requirements to implement this project:
 
+    Hardware: 
+    1. EFR32BG13 - starter kit, BMA280, Android Phone.
+    
     Software 
     1. Simplicity Studio 4, Android Studio
     
@@ -20,7 +21,7 @@ To tryout this project you need
     8. The DTW app provides visual graphs of realtime-data received, 
        to train with a particular command/notes/gesture - switch the button to the traning mode and hold-down the touch. and relese the touch once you are done with the gesture. 
     9. To recognise the gesture/command/notes, switch the button to the recognition mode and hold-down the touch to record the gesture and release once done. 
-   10. If it is a match, it will be displayed on the app.
+    10. If it is a match, it will be displayed on the app.
    
 If eager to build the entire project ground up, 
 
@@ -30,7 +31,7 @@ If eager to build the entire project ground up,
     
     
 The workinng prototype is uploaded in youtube, 
-    1. Ring-WearTech: https://www.youtube.com/watch?v=xBuL_wUILmY&t=18s
+    1. Ring-WearTech: https://www.youtube.com/watch?v=jb6WAhV-7PE
     2. BLE MESH: https://www.youtube.com/watch?v=EVaqNhNOGpU
    
    
